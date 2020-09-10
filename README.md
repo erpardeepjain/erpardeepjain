@@ -8,8 +8,6 @@
 
 👯 Top Contributor on Stackoverflow for Angular/JavaScript https://bit.ly/321Gs67
 
-🤔 I’m on Twitter : http://twitter.com/pardeepjain90
-
-💬 Some of my Talks :  https://bit.ly/38FAwB2
+🤔 I’m on Twitter : http://twitter.com/erpardeepjain
 
 📫 How to reach me: erpardeepjain@gmail.com
